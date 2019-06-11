@@ -103,6 +103,9 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
+# Header
+header:
+  image: "/assets/images/back.jpg"
 
 # Site Author
 author:
