@@ -105,7 +105,7 @@ analytics:
 
 # Header
 header:
-  overlay_image: /assets/images/back.jpg
+  overlay_image: "/assets/images/back.jpg"
 
 # Site Author
 author:
