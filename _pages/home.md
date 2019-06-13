@@ -1,6 +1,13 @@
 ---
+title:  "Home"
 layout: archive
-
+permalink: /home/
+author_profile: true
+comments: true
+header:
+  overlay_image: /assets/images/back.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  #{% include paginator.html %}
 ---
 
 {{ content }}
@@ -16,5 +23,3 @@ a software engineer. My areas of interest include Tropical Geometry, Combinatori
 [Thesis]({{ site.baseurl }} assets/images/TropicalThesis.pdf )
 
 ## Projects ##
-
-
