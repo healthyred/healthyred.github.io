@@ -4,7 +4,7 @@ layout: archive
 permalink: /
 author_profile: true
 comments: true
-excerpt: "Mathematics and Computer Science Double Major- Williams College '19"
+excerpt: "Mathematics/Computer Science Double Major- Williams College '19"
 header:
   overlay_image: /assets/images/back.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -25,5 +25,5 @@ Williams Introduction to Computer Science Auto Grader - an autograder built util
 
 [FracVisual](https://yuxin-wu.shinyapps.io/shiny/) ([Github](https://github.com/chriswu1996/IFSComputation)) - An app utilized to visualize the creation of fractals (such as the serpinski triangle, or the koch snowflake) in its IFS systems - made in collaboration with Yuxin Wu.
 
-Infection ([Github](https://github.com/nomoid/MomathHackathon)) - Momath Hackathon Finalist, a game created for the New York Museum of Mathematics - made in collaboration with Markus Feng, Shivam Satyarthi.
+Infection ([Github](https://github.com/nomoid/MomathHackathon)) - Momath Hackathon Finalist, a game created for the New York Museum of Mathematics - made in collaboration with Markus Feng, Shivam Satyarthi, Nicole Hessler.
 
