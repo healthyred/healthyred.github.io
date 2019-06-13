@@ -20,4 +20,9 @@ I am a Mathematics and Computer Science Double Major from Williams College. I am
 
 ## Projects ##
 
-Williams Introduction to Computer Science autograder 
+Williams Introduction to Computer Science Auto Grader - an autograder built utilizing Junit and Property-based testing - made in collaboration with Yuxin Wu, Dan Barowy.
+
+[FracVisual](https://yuxin-wu.shinyapps.io/shiny/) ([Github](https://github.com/chriswu1996/IFSComputation)) - An app utilized to visualize the creation of fractals (such as the serpinski triangle, or the koch snowflake) in its IFS systems - made in collaboration with Yuxin Wu.
+
+Infection ([Github](https://github.com/nomoid/MomathHackathon)) - Momath Hackathon Finalist, a game created for the New York Museum of Mathematics - made in collaboration with Markus Feng, Shivam Satyarthi.
+
