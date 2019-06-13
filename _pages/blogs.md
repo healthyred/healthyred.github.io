@@ -12,8 +12,6 @@ header:
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-[Resume](https://healthyred.github.io/assets/images/resume.pdf "an image title")
-
 {% for post in paginator.posts %}
   {% include archive-single.html %}
 {% endfor %}
